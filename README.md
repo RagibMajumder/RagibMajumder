@@ -10,8 +10,7 @@
 I am a **Computer Science undergraduate** and I like building cool stuff.
 
 * 🎓 **Education**: B.S. in Computer Science (Expected 2029)
-* 🌍 **Languages**: English, Bangla, Hindi, and Urdu
-* 🎯 **Current Focus**: Mastering **Node.js**, **Docker**, and **Kubernetes**
+* 🎯 **Current Focus**: Mastering **Docker**, and **Kubernetes**
 
 ---
 

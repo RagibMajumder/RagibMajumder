@@ -1,7 +1,7 @@
 # Hi, I'm Ragib Majumder! 👋
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxrdHNvNHViaDNjdHo0cm4wamg4OGg5aTV6Nzd4Ymoyb3hoc2RnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkSyGueYTnk40/giphy.gif" width="300">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNqdW4wdnZvM2MyaDljdmpvY3dlOGMyN3c0dnI0MHprN3V1ZjR5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kXixecGzl2gBlpO4SQ/giphy.gif" width="300">
 </p>
 
 ---

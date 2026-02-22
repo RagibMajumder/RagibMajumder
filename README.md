@@ -47,6 +47,3 @@ I am a **Computer Science undergraduate** and I like building cool stuff.
 </p>
 
 ---
-<p align="center">
-  <i>"Translating complex technical concepts into business value."</i>
-</p>

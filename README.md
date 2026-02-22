@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Ragib Majumder! 👋
 
-<!--
-**RagibMajumder/RagibMajumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxrdHNvNHViaDNjdHo0cm4wamg4OGg5aTV6Nzd4Ymoyb3hoc2RnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkSyGueYTnk40/giphy.gif" width="300">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+I am a **Computer Science undergraduate** and I like building cool stuff.
+
+* 🎓 **Education**: B.S. in Computer Science (Expected 2029)
+* 🌍 **Languages**: English, Bangla, Hindi, and Urdu
+* 🎯 **Current Focus**: Mastering **Node.js**, **Docker**, and **Kubernetes**
+
+---
+
+## 🛠 Technical Toolkit
+
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+## 📊 Activity Stats
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RagibMajumder&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:ragib3266@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/RagibMajumder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+  <i>"Translating complex technical concepts into business value."</i>
+</p>
